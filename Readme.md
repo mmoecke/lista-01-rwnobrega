@@ -3,7 +3,7 @@
 > **Atenção:** É necessário realizar um *commit* assim que concluir cada um dos exercícios abaixo. As mensagens de cada *commit* devem indicar exatamente o número do exercício que foi finalizado. Exemplo: "Exercício 01 concluído".
 > - Você poderá fazer *push* sempre que desejar, porém é obrigatório fazer um *push* assim que concluir a lista, pois só assim o professor conseguirá receber a lista resolvida completamente.
 > - Esse repositório foi criado automaticamente na conta Github do professor. Marque-o com estrela (favorito) para que você tenha acesso fácil ao mesmo.
-
+----------------------------INVASÃO ALIENIGENA  -------------------------
 
 1. [Solicite ao Github](https://education.github.com/discount_requests/new) benefícios que são disponibilizados para professores (*faculty*) e quando o fizer, edite esse arquivo e marque essa questão como solucionada.
     - [x] Pedido realizado para minha conta pessoal no Github
